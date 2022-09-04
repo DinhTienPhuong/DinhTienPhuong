@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DinhTienPhuong.
-- 👀 I’m interested in I am interested in learning php.
-- 🌱 I’m currently learning web design with php.
+- 👀 I’m a golang developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.facebook.com/phuongdinh27081997
 
